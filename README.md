@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Marcelo Sosa</h1>
 <h3 align="center">I'm a BackEnd Software Developer</h3>
 
-- 🔭 I’m currently working on **SmartFran IT proyects**
+- 🔭 I’m currently working at <a href="https://www.smartfran.com/">SmartFran IT S.R.L.</a>
 
 - 🌱 I’m currently learning **API Rest with NodeJS, Mongo and SQL Server**
 
