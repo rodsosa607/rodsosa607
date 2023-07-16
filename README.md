@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Marcelo Sosa</h1>
-<h3 align="center">I'm a BackEnd Software Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
-- 🔭 I’m currently working at <a href="https://www.smartfran.com/">SmartFran IT S.R.L.</a>
+- 💻 I’m currently working at <a href="https://www.smartfran.com/">SmartFran IT S.R.L.</a>
 
-- 🌱 I’m currently learning **API Rest with NodeJS, Mongo and SQL Server**
+- 🦾 My hard skills are: .Net (C#, ASP.Net Core, MVC, EF...), MS-SQL Server, MongoDB, Visual Foxpro and more...
 
-- 👯 I’m looking to collaborate with **.Net Projects**
+- 🌱 I’m currently learning **NodeJS API Rest working with Mongodb and SQL Server**
 
-- 🤝 I’m looking for help with **NodeJS**
+- 📫 How to contact me **rodsosa607@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, JS, C#, .Net, NodeJS, etc.**
-
-- 📫 How to reach me **rodsosa607@gmail.com**
+- 👀 You can see my works on <a href="https://github.com/rodsosa607">GitHub</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
