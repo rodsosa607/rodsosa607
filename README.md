@@ -9,7 +9,7 @@
 
 - 📫 How to contact me **rodsosa607@gmail.com**
 
-- 👀 You can see my works in <a href="https://github.com/rodsosa607">GitHub</a>
+- 👀 You can see my Portfolio in <a href="[https://github.com/rodsosa607](https://rodsosa607.github.io/)">GitHub</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
